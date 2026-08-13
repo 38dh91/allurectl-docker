@@ -1,2 +1,6 @@
 # allurectl-docker
-Dockerfile for allurectl
+
+Pull:
+```
+docker pull reikrobot/allurectl:2.20.0
+```
